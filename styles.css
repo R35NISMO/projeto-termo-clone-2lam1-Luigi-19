@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    color: #333;
+    color: #1900ff;
 }
 
 .container {
@@ -223,4 +223,13 @@ h1 {
     .cell {
         font-size: 1.5rem;
     }
+}
+.caixa{
+width: 100px;
+height: 100;
+background-color: #000000;
+
+
+
+
 }
